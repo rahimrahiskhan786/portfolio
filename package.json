@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Rahim Rahis Khan - Portfolio",
+  "main": "portfolio.html",
+  "scripts": {
+    "start": "echo 'Static site - no server needed'"
+  },
+  "keywords": ["portfolio", "frontend", "ai"],
+  "author": "Rahim Rahis Khan",
+  "license": "MIT"
+}
